@@ -1,4 +1,4 @@
-package org.example.advance_java.If_else_conditions;
+package org.example.advance_java.If_else_condition;
 
 import java.util.Scanner;
 
