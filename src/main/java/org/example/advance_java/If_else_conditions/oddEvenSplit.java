@@ -1,4 +1,4 @@
-package org.example.advance_java.If_else_condition;
+package org.example.advance_java.If_else_conditions;
 import java.util.Scanner;
 
 public class oddEvenSplit {
