@@ -18,6 +18,5 @@ public class GradingScale {
                System.out.println("Invalid Number!!!");
            }
        }
-
     }
 }
